@@ -1,9 +1,9 @@
-remote_theme: pages-themes/hacker
+remote_theme: daviddarnes/alembic@main
 plugins:
 - jekyll-remote-theme
 
-title: Minimal JS Image Classifiers
+title: Paulo Devera
 description: Some basic examples of client interfaces to a computer vision API
 
 author:
-  name: Jeremy Howard
+  name: Paulo Devera
